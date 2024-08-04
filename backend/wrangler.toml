@@ -1,0 +1,6 @@
+name = "backend"
+compatibility_date = "2024-07-30"
+
+[vars]
+DATABASE_URL="xxxxx"
+JWT_SECRET = "xxxxx" 
